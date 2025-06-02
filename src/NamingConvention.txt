@@ -1,0 +1,5 @@
+Sample data To place
+//This file contains naming convention for project.
+
+//General Naming Conventions
+//1.Use camelCase for variable and function anmes.
